@@ -1,12 +1,18 @@
-Group No: 27
+Link to unlisted youtube video:
+https://youtu.be/GIyf44GREtk
 
-Asibur Rahman Bhuiyan - 20101098
-Priom  Deb - 20101087
+Public link to the slide:
+https://docs.google.com/presentation/d/1I1Wa6M8RuDV7R6CgHuQQq1M2Y056QqOfogutebj7gmw/edit?usp=sharing
 
-Youtube Video Link: https://youtu.be/GIyf44GREtk
+Paper title:
+Few-Shot Learning Text Classification in Federated Environments
 
-Paper Title: Few-Shot Learning Text Classification in Federated Environments
+Link to the paper:
+https://ieeexplore.ieee.org/document/9588833
 
-Paper Link: https://ieeexplore.ieee.org/document/9588833
+Group Number:
+27
 
-Slide Link: https://docs.google.com/presentation/d/1-M1Q3DgoVGqp3TDu2vc5I1p2WADajexGLrzEoVssebw/edit?usp=sharing
+Group Members:
+20101087 - Priom Deb
+20101098 - Asibur Rahman Bhuiyan
