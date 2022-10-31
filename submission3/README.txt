@@ -3,7 +3,7 @@ https://youtu.be/AROQfq0ihA0
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/PriomDeb/CSE431/blob/main/submission3/Concept%20Map.pdf
+https://github.com/asib-rahman/CSE431_20101098_Asibur-Rahman-Bhuiyan/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
 https://drive.google.com/file/d/1ipqCaY4mv9urbEhMdL9Tu4lFpYAtEsnu/view?usp=share_link
 
